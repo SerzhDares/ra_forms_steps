@@ -1,0 +1,48 @@
+#root {
+  margin: 0 auto;
+}
+
+.form {
+  box-sizing: border-box;
+  display: flex;
+  margin-top: -200px;
+  margin-bottom: 40px;
+}
+
+.inputClass {
+  display: flex;
+  flex-direction: column;
+}
+
+.label {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.input {
+  font-size: 20px;
+  margin-right: 15px;
+}
+
+.button {
+  box-sizing: border-box;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  font-size: 20px;
+  width: 100px;
+  margin-top: 39px;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  width: 520px;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.item_text {
+  padding-top: 10px;
+  text-align: center;
+}
+
